@@ -1,25 +1,57 @@
-## नमस्ते (Hi there), I'm Asad Jakhavala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20px"/>
-<!-- ![](https://komarev.com/ghpvc/?username=asad2200&color=green) 👋-->
----
+## नमस्ते (Hi there), I'm Asad Jakhavala <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22" /> 😎
 
-<p align="center">
-    <a href="https://https://github.com/asad2200">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-    </a>
+<!-- Profile Views -->
 <p>
-  
-<a href="https://https://github.com/asad2200">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=asad2200&column=7&theme=onedark"/>
-    </p>
-</a>
-
-<h3 align="center">📈 My GitHub Stats: </h3>
-<a align="center" href="https://github.com/asad2200">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asad2200&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad2200&layout=compact&theme=tokyonight" alt="languages" height="165">
+  <img src="https://komarev.com/ghpvc/?username=asad2200&label=Profile%20views&color=0e75b6&style=flat" alt="asad2200" />
 </p>
-</a>
 
 ---
+
+### 👨‍💻 About me
+- 🎓 Master of Artificial Intelligence @ Monash University (Melbourne)
+- 🧠 Interested in: AI apps, LLMs, full-stack systems, and practical ML
+- 🛠️ I build: web apps, dashboards, and tools that help people move faster
+- 📍 Based in: Australia
+
+> Update these bullets anytime — keep it short and real.
+
+---
+
+### 🔗 Connect with me
+<p>
+  <!-- Replace # with your real links -->
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:asadjakhavala92@gmail.com"><img src="https://img.shields.io/badge/Email-EB4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,django,postgres,redis,docker,gcp,git&perline=11" />
+</p>
+
+---
+
+### 🏆 Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=asad2200&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=asad2200&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad2200&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=asad2200&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+### 📌 Pinned Projects (recommended)
+⭐ Pin your best 4–6 repos here (projects, coursework, tools, dashboards).
