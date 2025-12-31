@@ -82,9 +82,3 @@
 English • Hindi • Gujarati
 
 ---
-
-<img src="https://streak-stats.demolab.com?user=asad2200&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
