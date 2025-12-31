@@ -83,21 +83,6 @@ English • Hindi • Gujarati
 
 ---
 
-<div align="center">
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=asad2200&theme=onedark&no-frame=true&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=asad2200&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad2200&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
-
 <img src="https://streak-stats.demolab.com?user=asad2200&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
